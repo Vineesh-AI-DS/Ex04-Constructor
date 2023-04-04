@@ -82,7 +82,8 @@ namespace Constructor
 ```
  
  ## Output:
- ![CS4](https://user-images.githubusercontent.com/93427254/229769698-02d92403-263f-499d-af7b-4057fabd32de.png)
+ 
+ ![cs44](https://user-images.githubusercontent.com/93427254/229770615-edf2a842-605c-49a5-b8be-21d7e624a7a9.png)
 
  ## Result:
  Thus the C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
